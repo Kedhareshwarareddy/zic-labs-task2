@@ -60,7 +60,7 @@ The following important libraries were used for this project:
 
 ##Model Evaluation
 
-In the provided code, {accuracy:.2f}, this is a formatted string in Python, often used to display numeric values with a specific number of decimal places. Let me break it down:
+In the provided code, {accuracy:.3f}, this is a formatted string in Python, often used to display numeric values with a specific number of decimal places. Let me break it down:
 `{}:` This is a placeholder for the value to be inserted into the string.
 `accuracy:` This is the variable or value that will replace the placeholder.
-`:.2f:` This is a formatting option specifying how to display the value. In this case, it means to display the value as a floating-point number with 2 decimal places.
+`:.3f:` This is a formatting option specifying how to display the value. In this case, it means to display the value as a floating-point number with 2 decimal places.
